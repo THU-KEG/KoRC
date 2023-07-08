@@ -16,15 +16,15 @@ The file tree should be like
 ```
 .
 +-- dataset
-|   +-- kb.json
 |   +-- train.json
-|   +-- val.json
-|   +-- test.json
+|   +-- valid.json
+|   +-- small_iid_test.json
+|   +-- small_ood_test.json
 +-- Seq2Seq-MRC
-|   +-- preprocess.py
+|   +-- README.md
 |   +-- train.py
 |   +-- ...
-+-- KVMemNN
-+-- RGCN
++-- RAG
++-- EmbedKGQA
 ...
 ```
