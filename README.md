@@ -4,7 +4,7 @@
 
 This repo implements several baselines for the benchmark:
 
-- [chain-of-thought] (https://arxiv.org/abs/2201.11903) with [text-davinci-002] (https://platform.openai.com/docs/models/gpt-3-5) or [GLM-130B] (https://github.com/THUDM/GLM-130B) 
+- [chain-of-thought](https://arxiv.org/abs/2201.11903) with [text-davinci-002](https://platform.openai.com/docs/models/gpt-3-5) or [GLM-130B](https://github.com/THUDM/GLM-130B) 
 - Seq2Seq-MRC. It directly generates the answer based on the given document and question with Causal Language Model like BART, T5, Flan-T5, etc.
 - [RAG](https://arxiv.org/abs/2005.11401) (Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks)
 - [EmbedKGQA](https://malllabiisc.github.io/publications/papers/final_embedkgqa.pdf)
