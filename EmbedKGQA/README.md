@@ -15,6 +15,8 @@ Here we present 2 knowledge graph which are both sample from [Wikidata5m](https:
 - wyf-500-wikidata5m.pkl
   - contains about 20w entity embeddings
 
+above two files could be downloaded from [here](https://cloud.tsinghua.edu.cn/d/c2c25c2eef02425e9b4f/)
+
 # How to Run
 ```
 cd script

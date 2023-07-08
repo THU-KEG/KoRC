@@ -18,6 +18,8 @@ Similar to embedkgqa baseline, we adopt one small subgraph which is extracted fr
 - acl_ess.ttl
   - contains 3932606 semantic triplets related to all the topic entities for every question in the dataset
 
+above two files could be downloaded from [here](https://cloud.tsinghua.edu.cn/d/c2c25c2eef02425e9b4f/)
+
 # HOW TO RUN
 ```
 cd script
