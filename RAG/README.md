@@ -23,3 +23,5 @@ here we treat the question contexts as the retrieved passsages, jointly used to 
     1. prepare_open_dataset.py
     2. prepare_feature.py
 3. Run the Experiment
+    1. cd script
+    2. run experment with bash script
