@@ -28,3 +28,5 @@ The file tree should be like
 +-- EmbedKGQA
 ...
 ```
+
+For environment setup, you can use the KORC.yml file to create a conda environment with all the dependencies installed.
