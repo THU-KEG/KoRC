@@ -1,4 +1,4 @@
-# KQA Pro Baselines
+# KoRC Baselines
 [KoRC](https://arxiv.org/pdf/2307.03115.pdf) is a Knowledge oriented Reading Comprehension Benchmark for Deep Text Understanding
 
 
