@@ -11,7 +11,7 @@ This repo implements several baselines for the benchmark:
 - [TransferNet](https://aclanthology.org/2021.emnlp-main.341)
 
 Instructions of how to run these models are described in their README files.
-Before trying them, you need to first download the [dataset](https://cloud.tsinghua.edu.cn/d/c2c25c2eef02425e9b4f/) and unzip it into the folder `./dataset`.
+Before trying them, you need to first download the [dataset](https://cloud.tsinghua.edu.cn/d/e7d42714b52d4aed9fdc/) and unzip it into the folder `./dataset`.
 The file tree should be like
 ```
 .
